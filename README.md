@@ -1,6 +1,11 @@
 ### Merhaba, Ben Yusuf Özkan İr! 👋
 
-Trakya Üniversitesi Bilgisayar Teknolojisi ve Bilişim Sistemleri mezunuyum. Full stack developer olarak kendimi sürekli geliştirmekteyim ve yazılım dünyasındaki yenilikleri takip etmeyi seviyorum.
+Trakya Üniversitesi Bilgisayar Teknolojisi ve Bilişim Sistemleri mezunuyum. Full stack developer olarak kendimi sürekli geliştirmekteyim ve yazılım dünyasındaki yenilikleri takip etmeyi seviyorum. Her zaman yeni teknolojileri öğrenmek ve mevcut becerilerimi geliştirmek için çabalıyorum. Bu GitHub profilimdeki projeler, benim için sadece kod yazma yeteneğimi göstermekle kalmıyor, aynı zamanda bir sorun çözücü ve yaratıcı olarak nasıl düşündüğümü de yansıtıyor. Özellikle .Net Core konularında ilgi alanım var ve bu alanda projeler geliştirme konusunda tutkulu bir şekilde çalışıyorum. Yazılıma olan tutkum sayesinde birçok proje üzerinde çalıştım ve hala öğrenmeye ve denemeye istekliyim. Yazılımın sınırsız dünyasında her zaman yeni şeyler öğrenmek beni heyecanlandırıyor.
+
+Benimle iletişim kurmak veya projelerim hakkında konuşmak için lütfen E-Posta adresinden veya Linkedin üzerinden benimle iletişime geçmekten çekinmeyin.
+
+Teşekkür ederim profilimi ziyaret ettiğiniz için. Birlikte daha fazla kod yazmak için sabırsızlanıyorum! 🚀
+
 
 #### Kullandığım Teknolojiler:
 
@@ -17,9 +22,6 @@ Trakya Üniversitesi Bilgisayar Teknolojisi ve Bilişim Sistemleri mezunuyum. Fu
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 
-
-Yazılıma olan tutkum sayesinde birçok proje üzerinde çalıştım ve hala öğrenmeye ve denemeye istekliyim. Yazılımın sınırsız dünyasında her zaman yeni şeyler öğrenmek beni heyecanlandırıyor.
-
 #### Daha Fazla Bilgi ve İletişim:
 
 - [LinkedIn](https://linkedin.com/in/yusufozkanir)
@@ -31,23 +33,6 @@ Yazılıma olan tutkum sayesinde birçok proje üzerinde çalıştım ve hala ö
 - Gitar çalmak
 - Basketbol oynamak
 
-Profilimi ziyaret ettiğiniz için teşekkür ederim. Birlikte çalışmak veya sadece teknolojiyle ilgili sohbet etmek isterseniz, lütfen iletişime geçmekten çekinmeyin!
-
-
-<!--
-*mustafakorkmazz498/mustafakorkmazz498* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 
