@@ -24,8 +24,6 @@ Teşekkür ederim profilimi ziyaret ettiğiniz için. Birlikte daha fazla kod ya
 
 #### Daha Fazla Bilgi ve İletişim:
 
-- [LinkedIn](https://linkedin.com/in/yusufozkanir)
-- E-posta: yusufozkanir@outlook.com
 
 #### Kişisel İlgi Alanlarım:
 
